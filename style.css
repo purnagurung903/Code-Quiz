@@ -1,0 +1,23 @@
+#quizBody {
+  text-align: center;
+  padding: 12vh;
+}
+
+button {
+  border: none;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 16px 10px 16px;
+  font-size: 17px;
+  font-family: 'Roboto Slab', arial;
+  margin: 40px;
+  display: block;
+  
+}
+
+button:hover {
+  transition-duration: 0.4s;
+  background-color: blue;
+}
+
