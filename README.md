@@ -21,3 +21,4 @@ WHEN the game is over
 THEN I can save my initials and score
 
 # Please visit the deployed project at:
+https://purnagurung903.github.io/Code-Quiz/
